@@ -4,5 +4,6 @@ public class Gittest {
         System.out.println("gook lack");
         System.out.println("third");
         System.out.println("666");
+        System.out.println("push");
     }
 }
