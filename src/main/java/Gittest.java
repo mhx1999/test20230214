@@ -3,5 +3,6 @@ public class Gittest {
         System.out.println("hello,git");
         System.out.println("gook lack");
         System.out.println("third");
+        System.out.println("666");
     }
 }
